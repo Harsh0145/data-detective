@@ -6,7 +6,7 @@ Data Detective is a Python + Streamlit portfolio project that automatically prof
 
 ## 🚀 Live Demo
 
-Add the Streamlit deployment URL here after deployment.
+Live Demo: https://data-detective-smvf7ogvskv4zjedaaybz6.streamlit.app/
 
 ## Features
 
